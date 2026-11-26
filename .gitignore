@@ -1,0 +1,14 @@
+node_modules/
+dist/
+*.tsbuildinfo
+.vite/
+
+# Do not include personal or test exhibits in source control.
+video/
+*.mp4
+*.mov
+*.webm
+*.jpg
+*.jpeg
+*.png
+*.webp
